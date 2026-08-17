@@ -64,5 +64,3 @@ print(f"Final b({b_final})")
 separator()
 prediction = model(3000, w_final, b_final)
 print(prediction)
-
-
